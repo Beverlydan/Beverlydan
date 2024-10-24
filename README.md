@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Beverlydan
+- 👀 I’m interested in Data Analysis/Science
+- 🌱 I’m currently learning Python&SQL
+- 💞️ I’m looking to collaborate on Data Analysis Python Projects
+- 📫 How to reach me @ danbee926@gmail.com
+- 😄 Pronouns: Her
